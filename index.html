@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>Train Locations in Finland</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Live Train Locations in Finland</h1>
-    <div id="map"></div>
+    <p id="last-update">Last updated: Not yet updated</p>
+    <div class="container">
+        <div id="map"></div>
+        <div id="train-list">
+            <h2>Trains in View</h2>
+            <ul id="train-details"></ul>
+        </div>
+    </div>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="script.js"></script>
 </body>
