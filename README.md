@@ -1,6 +1,6 @@
 # Train Locations Website
 
-A website showing real-time train locations in Finland using the Digitraffic API.
+I have tried creating a website showcasing real-time train locations in Finland using the Digitraffic API.
 
 ## Features
 - Fetches train locations from the Digitraffic API.
@@ -22,3 +22,7 @@ A website showing real-time train locations in Finland using the Digitraffic API
 
 ## Learning Journey
 As a IT student at Centria, I used my programming knowlwdge, UI/UX, and software engineering skills to build this. Adding auto-updates and a train list taught me how to handle real-time data and improve usability!. I knew it would be tough but i enjoyed the assignment and it was a great learning curve. 
+
+
+## References
+Apart from my learninings, i used the help from Internet to correctly remember some codes.
