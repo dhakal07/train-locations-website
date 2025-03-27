@@ -22,7 +22,6 @@ function updateTrainLocations() {
               if (map.getBounds().contains([coords[1], coords[0]])) {
                 let listItem = document.createElement("li");
                 listItem.textContent = `Train ${train.trainNumber} (${train.trainType}) - ${train.speed} km/h`;
-                
                 document.getElementById("train-details").appendChild(listItem);
               }
             }
