@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 10px;
   text-align: center;
+  color: #00A149;
 }
 
 .container {
@@ -26,7 +27,7 @@ body {
 }
 
 #train-list h2 {
-  font-size: 20px;
+  font-size: 22px;
   margin-top: 0;
 }
 
